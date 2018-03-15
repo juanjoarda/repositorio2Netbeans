@@ -16,7 +16,7 @@ public class ProyectoEDGit {
      */
     public static void main(String[] args) {
         
-        System.out.println("Hola adios");
+        System.out.println("Hola tu");
         // TODO code application logic here
     }
     
